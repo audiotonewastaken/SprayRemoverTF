@@ -1,3 +1,4 @@
+# REQUIRES [TF2](https://store.steampowered.com/app/440/Team_Fortress_2/) AND [STEAM]([https://store.steampowered.com/app/440/Team_Fortress_2/](https://store.steampowered.com/about/)) TO WORK CORRECTLY
 # SprayRemoverTF
 # Uses the WTFPL license
 # http://www.wtfpl.net/
