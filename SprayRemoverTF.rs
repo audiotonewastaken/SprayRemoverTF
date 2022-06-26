@@ -3,11 +3,13 @@ use std::io::Error;
 use std::process::Command;
 
 
-
-
+ 
 fn main() {
     let demo_dir = fs::read_dir("C:\\Program Files (x86)\\Steam\\steamapps\\common\\Team Fortress 2\\tf\\materials\\temp");
     delete_dir_contents(demo_dir);
+    let _child = Command::new("cmd.exe")
+    .arg("/C").arg("start").arg("").arg("steam://rungameid/440")
+    .spawn().expect("failed to launch TF2");
 }
 
 fn delete_dir_contents(read_dir_res: Result<ReadDir, Error>) {
@@ -24,9 +26,7 @@ fn delete_dir_contents(read_dir_res: Result<ReadDir, Error>) {
             };
         }
     };
-    let _output = Command::new(r#"C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\hl2"#)    
-    .output()
-    .expect("failed to execute process");
+
 }
 
 
