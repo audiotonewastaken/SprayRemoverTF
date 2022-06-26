@@ -1,3 +1,4 @@
+# Only works on Windows, not tested on macos or any version of Linux
 # REQUIRES [TF2](https://store.steampowered.com/app/440/Team_Fortress_2/) AND [STEAM](https://store.steampowered.com/about/) TO WORK CORRECTLY
 # SprayRemoverTF
 # Uses the WTFPL license
