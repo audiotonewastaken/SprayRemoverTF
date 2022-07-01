@@ -6,6 +6,6 @@
 
 An application to remove  tf2 spray files
 
-To use the app, select SprayRemoverTF V1.1 from the releases tab, and select whatever zip format you would like (I recommend .zip). Then Extract it and run the SprayRemoverTF executable. (SprayRemoverTF.EXE)
+To use the app, select SprayRemoverTF V1.0 from the releases tab, and select whatever zip format you would like (I recommend .zip). Then Extract it and run the SprayRemoverTF executable. (SprayRemoverTF.EXE)
 
 
