@@ -6,6 +6,9 @@
 
 An application to remove  tf2 spray files
 
-To use the app, select SprayRemoverTF V1.0 from the releases tab, and select whatever zip format you would like (I recommend .zip). Then Extract it and run the SprayRemoverTF executable. (SprayRemoverTF.EXE)
+it's best to only install the SprayRemoverTF.exe file and not the .zip or .targz files
+
+To use place the .exe to your tf/custom folder. Should be in C:\Program Files (x86)\Steam\steamapps\common\Team Fortress 2\tf\custom
+The app should run every time you close Team Fortress 2.
 
 
